@@ -14,8 +14,8 @@ I like exploring new topics and taking on challenges like moderating panel discu
 - **Tools**: Git, GitHub, Visual Studio Code
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn](https://www.linkedin.com/in/neil-oommen-renni-aa1694291/)
+
 
 ### 📜 Setup Instructions
 If you're sharing a project, you can include setup instructions like this:
