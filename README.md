@@ -1,34 +1,65 @@
-## Hi there 👋, I'm Neil Oommen Renni
+# 👋 Hi, I'm Neil Oommen Renni
 
-### 🚀 About Me
-- 🔭 I’m currently a second-year Computer Science student at **College of Engineering Chengannur** (S3 E batch).
-- 🌱 I’m learning about web applications, especially **Virtual Orrery** projects, and diving deeper into tech.
-- 🎙️ Part of the **RJ team** at my college, and I enjoy hosting panel discussions and engaging with speakers.
-- 🤖 I’m also exploring professional ethics, specifically on topics like *'Collegiality and Loyalty'*.
+### Computer Science & Engineering Student • Developer • Builder
 
-### ⚡ Fun Fact
-I like exploring new topics and taking on challenges like moderating panel discussions and leading seminars!
+I'm a Computer Science & Engineering student who enjoys building things, experimenting with new technologies, and understanding how systems work under the hood.
 
-### 💻 Languages and Tools
-- **Languages**: C++, Python, HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, Visual Studio Code
+---
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/neil-oommen-renni-aa1694291/)
+## 🚀 About Me
 
+- 🎓 CSE student at College of Engineering Chengannur
+- 💻 Interested in software development, AI/ML and cybersecurity
+- 🧠 Currently exploring Small Language Models and vulnerability detection
+- 🔨 Building **ClusterSLM** — a repository-scale vulnerability detection project
+- 🧩 Learning by building rather than just following tutorials
 
-### 📜 Setup Instructions
-If you're sharing a project, you can include setup instructions like this:
+---
 
-```bash
-# Clone this repository
-git clone https://github.com/your-profile/your-repo.git
+## 🛠️ Skills
 
-# Navigate into the project directory
-cd your-repo
+### Languages
+`Python` `Java` `TypeScript` `JavaScript` `SQL`
 
-# Install dependencies (if applicable)
-npm install
-sitory because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Web Development
+`HTML` `CSS` `Angular`
+
+### Tools & Technologies
+`Git` `GitHub` `Docker` `MySQL`
+
+### Currently Exploring
+`Machine Learning` `LLMs` `SLMs` `Graph-based Analysis` `Cybersecurity`
+
+---
+
+## 🚀 Projects
+
+### 🧠 ClusterSLM
+**Graph-Guided Partitioning and Boundary-Aware Reconciliation for Repository-Scale Vulnerability Detection**
+
+A research-oriented project exploring parallel Small Language Models for privacy-preserving source-code vulnerability detection.
+
+### 🧭 Indoor Navigation
+An indoor navigation web application developed during my internship using Angular and TypeScript, with A* pathfinding for route calculation.
+
+---
+
+## 🎮 LeetCode
+
+> Automatically updating this section is one of the next things we'll build.
+
+**Problems Solved:** Coming soon...
+
+**Recent Solutions:** Coming soon...
+
+---
+
+## 📊 Developer Stats
+
+> This section will become dynamic.
+
+```text
+Commits        → Loading...
+Repositories   → Loading...
+Contributions  → Loading...
+LeetCode       → Loading...
