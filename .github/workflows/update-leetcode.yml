@@ -1,0 +1,73 @@
+name: Update LeetCode Section
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Clone chillcode
+        run: |
+          git clone https://github.com/neilor-21/chillcode.git chillcode
+
+      - name: Update LeetCode section
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+
+          solutions = []
+
+          for path in Path("chillcode").iterdir():
+              if path.is_dir() and path.name != ".git":
+                  solutions.append(path.name)
+
+          solutions.sort()
+
+          recent = solutions[-5:][::-1]
+
+          section = "## 🎮 LeetCode\n\n"
+          section += f"**Problems Solved:** {len(solutions)}\n\n"
+          section += "**Recent Solutions:**\n\n"
+
+          if recent:
+              for solution in recent:
+                  section += f"- 🟢 {solution}\n"
+          else:
+              section += "- No solutions found yet.\n"
+
+          pattern = r"## 🎮 LeetCode.*?(?=\n---|\n## 📊 Developer Stats)"
+
+          text = re.sub(
+              pattern,
+              section.rstrip(),
+              text,
+              flags=re.DOTALL
+          )
+
+          readme.write_text(text, encoding="utf-8")
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Update LeetCode stats"
+
+          git push
