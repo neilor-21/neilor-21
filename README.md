@@ -46,12 +46,12 @@ An indoor navigation web application developed during my internship using Angula
 
 ## 🎮 LeetCode
 
-> Automatically updating this section is one of the next things we'll build.
+**Problems Solved:** 2
 
-**Problems Solved:** Coming soon...
+**Recent Solutions:**
 
-**Recent Solutions:** Coming soon...
-
+- 🟢 9-palindrome-number
+- 🟢 26-remove-duplicates-from-sorted-array
 ---
 
 ## 📊 Developer Stats
