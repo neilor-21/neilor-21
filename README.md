@@ -155,25 +155,9 @@
 ╚════════════════════════════╝
 </pre>
 </td>
-<td valign="top">
-<pre>
-╔════════════════════════════╗
-║         ATTRIBUTES         ║
-╠════════════════════════════╣
-║ DEEP-DIVE DEPTH  ██████████ ║
-║                   (MAX)    ║
-║ OVERTHINKING      █████████░ ║
-║ BUILD-FIRST       ███░░░░░░░ ║
-║                   (patch WIP) ║
-║ BUBBLY APPS       ███████░░░ ║
-║ HOOMAN STUFF      ██████░░░░ ║
-╚════════════════════════════╝
-</pre>
-</td>
 </tr>
 </table>
 
-<sub>Attributes are 100% flavor text. Please do not run them through a hiring algorithm.</sub>
 
 ---
 
