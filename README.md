@@ -36,8 +36,8 @@
 <img src="https://skillicons.dev/icons?i=py" width="44" alt="PYTHON" />
 <pre>
 ╔════════════════════════════╗
-║ PYTHON              LVL 08 ║
-║ XP ████████░░  820 XP      ║
+║ PYTHON              LVL 07 ║
+║ XP ████████░░  720 XP      ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -45,8 +45,8 @@
 <img src="https://skillicons.dev/icons?i=ts" width="44" alt="TYPESCRIPT" />
 <pre>
 ╔════════════════════════════╗
-║ TYPESCRIPT          LVL 07 ║
-║ XP ███████░░░  680 XP      ║
+║ TYPESCRIPT          LVL 05 ║
+║ XP ████░░░░░░  480 XP      ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -56,8 +56,8 @@
 <img src="https://skillicons.dev/icons?i=java" width="44" alt="JAVA" />
 <pre>
 ╔════════════════════════════╗
-║ JAVA                LVL 07 ║
-║ XP ███████░░░  700 XP      ║
+║ JAVA                LVL 03 ║
+║ XP ███░░░░░░░  210 XP      ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -65,7 +65,7 @@
 <img src="https://skillicons.dev/icons?i=c" width="44" alt="C" />
 <pre>
 ╔════════════════════════════╗
-║ C                   LVL 06 ║
+║ C                   LVL 05 ║
 ║ XP ██████░░░░  590 XP      ║
 ╚════════════════════════════╝
 </pre>
@@ -81,8 +81,8 @@
 <img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML5" />
 <pre>
 ╔════════════════════════════╗
-║ HTML5               LVL 08 ║
-║ XP ████████░░  780 XP      ║
+║ HTML5               LVL 06 ║
+║ XP █████░░░░░  540 XP      ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -90,8 +90,8 @@
 <img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS3" />
 <pre>
 ╔════════════════════════════╗
-║ CSS3                LVL 07 ║
-║ XP ███████░░░  690 XP      ║
+║ CSS3                LVL 04 ║
+║ XP ████░░░░░░  301 XP      ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -101,7 +101,7 @@
 <img src="https://skillicons.dev/icons?i=angular" width="44" alt="ANGULAR" />
 <pre>
 ╔════════════════════════════╗
-║ ANGULAR             LVL 06 ║
+║ ANGULAR             LVL 05 ║
 ║ XP ██████░░░░  560 XP      ║
 ╚════════════════════════════╝
 </pre>
@@ -126,8 +126,8 @@
 <img src="https://skillicons.dev/icons?i=github" width="44" alt="GITHUB" />
 <pre>
 ╔════════════════════════════╗
-║ GITHUB              LVL 08 ║
-║ XP ████████░░  750 XP      ║
+║ GITHUB              LVL 03 ║
+║ XP ████░░░░░░░░░  232 XP   ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -146,12 +146,12 @@
 ║          PLAYER 1          ║
 ╠════════════════════════════╣
 ║ NAME    Neil Oommen Renni  ║
-║ CLASS   Full-stack Tinkerer ║
-║ SUBCLASS Vuln-Hunting Wizard ║
+║ CLASS   Novice Lvl Dev     ║
+║ SUBCLASS Problem maker     ║
 ║                            ║
-║ PLAYER LVL 11              ║
-║ TOTAL XP  5,960            ║
-║ NEXT LVL  40 XP away       ║
+║ PLAYER LVL 4               ║
+║ TOTAL XP  Unknown          ║
+║ NEXT LVL  Unknown          ║
 ╚════════════════════════════╝
 </pre>
 </td>
@@ -183,12 +183,7 @@
 
 > **ClusterSLM: A Graph-Guided Partitioning and Boundary-Aware Reconciliation Framework for Privacy-Preserving Repository-Scale Vulnerability Detection Using Parallel Small Language Models**
 
-Translation from academic to human: a whole codebase is too big for one small model to read at once, and I'd rather not ship private code to someone else's cloud. So:
-
-1. 🕸️ Build a **repository / dependency graph**
-2. ✂️ **Partition** it along that graph into model-sized chunks
-3. 🤖 Let **parallel local SLMs** hunt for vulnerabilities in each chunk
-4. 🧩 **Reconcile the boundaries**, where bugs love to hide between chunks
+Translation from academic to human: a whole codebase is too big for one small model to read at once, and I'd rather not ship private code to someone else's cloud.
 
 `Graphs` `Small Language Models` `Vulnerability Detection` `Privacy-Preserving` `Research`
 
@@ -200,7 +195,7 @@ Built during an internship. Pick two locations, get a route. Under the hood, **A
 
 `Angular` `TypeScript` `A* Pathfinding`
 
-**Status:** ✅ quest complete, loot acquired (internship experience)
+**Status:** ✅ quest complete(under updations), loot acquired (internship experience)
 
 ---
 
