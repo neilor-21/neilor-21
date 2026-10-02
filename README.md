@@ -200,41 +200,4 @@ Synced automatically from [`chillcode`](https://github.com/neilor-21/chillcode) 
 
 ## 🐱 CONTRIBUTION CAT
 
-The cat mirrors my **real** GitHub activity. No fake hustle: low contributions means a sleepy cat, more contributions means a more active one.
-
-<!-- CAT:START -->
-<table>
-<tr>
-<td align="center">
-<pre>
-  ∧＿∧
- (-ω-)  z Z z
- /つ  つ
-</pre>
-<b>STATE: 😴 SLEEPING</b>
-</td>
-<td valign="middle">
-<b>Cat activity ladder</b><br/>
-😴 <b>Sleeping</b>: barely any recent contributions<br/>
-😺 <b>Chilling</b>: a few commits, light stretching<br/>
-🐾 <b>Wandering</b>: steady activity<br/>
-⚡ <b>Zoomies</b>: on a roll
-</td>
-</tr>
-</table>
-<!-- CAT:END -->
-
-🎮 **Play the cat:** [neilor-21.github.io/cat-game](https://neilor-21.github.io/cat-game/) · 📦 [Source](https://github.com/neilor-21/cat-game)
-
-```
-GitHub activity ─┐
-Projects ────────┤
-LeetCode ────────┼─▶ DEVELOPER XP ─▶ TECH LEVELS ─▶ CAT ACTIVITY
-Tech usage ──────┘
-```
-
----
-
-<div align="center">
-<sub>🕹️ Thanks for playing. Press ⭐ to continue.</sub>
-</div>
+**Status:** UNDER CONSTRUCTION
