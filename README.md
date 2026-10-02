@@ -1,65 +1,44 @@
-# 👋 Hi, I'm Neil Oommen Renni
+# 👋 Hey, I'm Neil Oommen Renni
 
-### Computer Science & Engineering Student • Developer • Builder
-
-I'm a Computer Science & Engineering student who enjoys building things, experimenting with new technologies, and understanding how systems work under the hood.
-
----
-
-## 🚀 About Me
-
-- 🎓 CSE student at College of Engineering Chengannur
-- 💻 Interested in software development, AI/ML and cybersecurity
-- 🧠 Currently exploring Small Language Models and vulnerability detection
-- 🔨 Building **ClusterSLM** — a repository-scale vulnerability detection project
-- 🧩 Learning by building rather than just following tutorials
+- 🫠 Diving into stuff so deep that sometimes I forget there's a surface to come back to.
+- 🧪 Eager to work on projects, bubbly apps, and other interesting hooman stuff.
+- 🤡 **Peculiar fact about me:** I probably should've spent less time thinking about *how* to build things and more time actually building them.
+- 🧙 **Guru of mine:** GPT + Kichu
 
 ---
 
-## 🛠️ Skills
+## 🔎 Find Me
 
-### Languages
-`Python` `Java` `TypeScript` `JavaScript` `SQL`
+<div style="display: flex; gap: 6px; align-items: center;">
 
-### Web Development
-`HTML` `CSS` `Angular`
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
 
-### Tools & Technologies
-`Git` `GitHub` `Docker` `MySQL`
+<a href="https://www.linkedin.com/in/neil-oommen-renni/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-### Currently Exploring
-`Machine Learning` `LLMs` `SLMs` `Graph-based Analysis` `Cybersecurity`
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
----
-
-## 🚀 Projects
-
-### 🧠 ClusterSLM
-**Graph-Guided Partitioning and Boundary-Aware Reconciliation for Repository-Scale Vulnerability Detection**
-
-A research-oriented project exploring parallel Small Language Models for privacy-preserving source-code vulnerability detection.
-
-### 🧭 Indoor Navigation
-An indoor navigation web application developed during my internship using Angular and TypeScript, with A* pathfinding for route calculation.
+</div>
 
 ---
 
-## 🎮 LeetCode
+## ⚙️ Tech Stack
 
-**Problems Solved:** 2
+<div style="display: flex; gap: 2px; align-items: center;">
 
-**Recent Solutions:**
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
 
-- 🟢 9-palindrome-number
-- 🟢 26-remove-duplicates-from-sorted-array
----
-
-## 📊 Developer Stats
-
-> This section will become dynamic.
-
-```text
-Commits        → Loading...
-Repositories   → Loading...
-Contributions  → Loading...
-LeetCode       → Loading...
+</div>
