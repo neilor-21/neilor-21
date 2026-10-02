@@ -201,3 +201,10 @@ Synced automatically from [`chillcode`](https://github.com/neilor-21/chillcode) 
 ## 🐱 CONTRIBUTION CAT
 
 **Status:** UNDER CONSTRUCTION
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neilor-21/neilor-21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neilor-21/neilor-21/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/neilor-21/neilor-21/output/github-snake-dark.svg" width="95%" />
+</picture>
