@@ -10,7 +10,7 @@
 
 - 🫠 **Current quest:** diving into stuff so deep I may not resurface anytime soon. Send snacks. And a ladder.
 - 🧪 **Looking for:** projects, bubbly apps, and other interesting *hooman* stuff.
-- 🤡 **Peculiar fact:** I should have spent more time *building* and less time planning *how* to build. My to-do list has more lore than my commit history.
+- **Peculiar fact:** I should have spent more time *building* and less time planning *how* to build. My to-do list has more lore than my commit history.
 - 🧙 **Guru:** GPT + Kichu. One compiles my thoughts, the other debugs my life.
 
 ---
